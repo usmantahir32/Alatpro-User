@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1028979676422-v8l9juf980ni9859u9gu9825aqrrhfpu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1028979676422-v8l9juf980ni9859u9gu9825aqrrhfpu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1028979676422-k0m2qs6qs1p3t0d81km0kj7bdqf0r7qe.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApmVByi4HvBMBE2x_NwSncMNRv47WdUxg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1028979676422</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alatpro.services</string>
+	<key>PROJECT_ID</key>
+	<string>alat-pro</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alat-pro.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1028979676422:ios:6c3c73067b4fc0c665ba87</string>
+</dict>
+</plist>
